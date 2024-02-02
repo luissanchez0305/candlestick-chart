@@ -14,5 +14,5 @@ Random calculation of values to display a daily candlestick stock chart
 
 ## Instructions
 
-    - ```npm i```
-    - ```npm start```
+    - `npm i`
+    - `npm start`
