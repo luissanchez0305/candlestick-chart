@@ -14,5 +14,12 @@ Random calculation of values to display a daily candlestick stock chart
 
 ## Instructions
 
-    - `npm i`
-    - `npm start`
+### Install dependencies
+```
+npm i
+```
+
+### Start app
+````
+npm start
+```
